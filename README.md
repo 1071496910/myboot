@@ -1,2 +1,2 @@
 # myboot
-boot loader learn
+write boot loader for learn
